@@ -8,6 +8,7 @@ categories: loaf
 
 ### Specs
 - Hydration ~72%
+- Recipe from https://www.theperfectloaf.com/best-sourdough-recipe/
 
 ### Levain
 - 18g Ripe sourdough starter 
