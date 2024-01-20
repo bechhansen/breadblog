@@ -17,8 +17,8 @@ categories: loaf
 - 36g water
 
 ### Autolyse 
-- 493g Hvedemel manitoba - Valsemøllen
-- 38g Speltmel - Skærtoft Mølle
+- 493g Wheat Manitoba - Valsemøllen
+- 38g Spelt flour - Skærtoft Mølle
 - 232g water + some
 
 ### Mix
